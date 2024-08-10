@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 d6 46 c1 98 5e dc fe-56 7b 36 0c 90 d3 70 28</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">K8S-Node01.vmx</vmxPathName></VM></Foundry>

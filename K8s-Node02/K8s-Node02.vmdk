@@ -1,0 +1,25 @@
+# Disk DescriptorFile
+version=1
+encoding="Big5"
+CID=043dfc4f
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 8323072 SPARSE "K8s-Node02-s001.vmdk"
+RW 8323072 SPARSE "K8s-Node02-s002.vmdk"
+RW 8323072 SPARSE "K8s-Node02-s003.vmdk"
+RW 8323072 SPARSE "K8s-Node02-s004.vmdk"
+RW 8323072 SPARSE "K8s-Node02-s005.vmdk"
+RW 327680 SPARSE "K8s-Node02-s006.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "2610"
+ddb.geometry.heads = "255"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "159576a5df5a7fec05ab200e043dfc4f"
+ddb.uuid = "60 00 C2 95 32 f3 92 91-f8 9b cb 3c 9b 6a 2b f4"
+ddb.virtualHWVersion = "21"
